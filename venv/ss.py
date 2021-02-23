@@ -1,5 +1,5 @@
-name='Johson Paul'
-print(name[:])
-print(name[1:])
-print(name[-5:0:-1])
-print(name[-1:-2])
+a=int(input('Enter the first number:'))
+b=int(input('Enter the second number:'))
+c=int(input('Enter the third number:'))
+sum=a+b+c
+print('The sum of three numbers=',sum)
