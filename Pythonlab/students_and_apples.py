@@ -4,3 +4,4 @@ n=K//N
 print('The number of apples that each student gets =',n)
 r=K%N
 print('The number of remaining apples in the basket =',r)
+
